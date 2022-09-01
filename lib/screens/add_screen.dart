@@ -44,7 +44,7 @@ class AddNotesState extends State<AddNotes> {
             child: IconButton(
               icon: const Icon(Icons.delete),
               onPressed: () {
-                //delete pressed
+                //delete pressedd
                 //_deleteData(context);
               },
             ),
